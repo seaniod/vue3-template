@@ -1,5 +1,7 @@
 # fix_eslint
 
+There was a set of problems getting Vue3 working with ESlint, especially the AirBnB specification. The package.json and .eslintrc files shows the dependencies that solve these problems. 
+
 ## Project setup
 ```
 npm install
